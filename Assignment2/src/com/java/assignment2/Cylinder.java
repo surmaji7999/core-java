@@ -1,5 +1,5 @@
 package com.java.assignment2;
-
+//This is cylinder class
 import java.util.Scanner;
 
 public class Cylinder extends Shape {
